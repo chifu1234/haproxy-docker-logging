@@ -1,4 +1,4 @@
-FROM haproxy:2.1.2-alpine
+FROM haproxy:2.1.3-alpine
 
 LABEL maintainer="Meik Minks <mminks@inoxio.de>"
 
